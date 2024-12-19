@@ -3,6 +3,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'www.fenza.com.ar',
+  site: 'https://astro-cube.vercel.app/',
   integrations: [sitemap()],
 });
